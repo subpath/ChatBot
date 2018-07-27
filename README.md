@@ -17,4 +17,5 @@ bot.reply('Where are you from?')
 
 If you wanna retrain bot on a different data or with different parameters, then file **ChatBot_trainig.py** contains everything you need
 
-Medium article:
+Medium article: https://medium.com/cindicator/building-chatbot-weekend-of-a-data-scientist-8388d99db093
+
